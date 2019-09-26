@@ -1,0 +1,8 @@
+{
+    "name": "tudor/test",
+    "description": "testing",
+    "type": "project",
+    "license": "tudor",
+    "minimum-stability": "dev",
+    "require": {}
+}
